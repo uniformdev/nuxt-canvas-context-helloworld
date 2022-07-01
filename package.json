@@ -1,0 +1,22 @@
+{
+  "name": "@uniformdev/nuxt-canvas-helloworld",
+  "private": true,
+  "scripts": {
+    "dev": "npm run context:manifest && nuxt dev",
+    "build": "npm run context:manifest && nuxt build",
+    "generate": "npm run context:manifest && nuxt generate",
+    "preview": "nuxt preview",
+    "context:manifest": "uniform context manifest download --output ./context-manifest.json"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.4",
+    "@uniformdev/cli": "^16.0.1-nuxt.166"
+  },
+  "dependencies": {
+    "@uniformdev/canvas": "^16.0.1-nuxt.166",
+    "@uniformdev/canvas-vue": "^16.0.1-nuxt.166",
+    "@uniformdev/context": "^16.0.1-nuxt.166",
+    "@uniformdev/context-vue": "^16.0.1-nuxt.166",
+    "@uniformdev/uniform-nuxt": "^16.0.1-nuxt.166"
+  }
+}
