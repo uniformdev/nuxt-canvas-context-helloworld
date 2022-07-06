@@ -11,12 +11,14 @@ const composition = computed(() => data.value?.composition);
 </script>
 
 <template>
-  <NavBar />
-  <Composition
-    v-if="composition"
-    :data="composition"
-    :resolveRenderer="resolveRenderer"
-  >
-    <SlotContent name="content" />
-  </Composition>
+  <div>
+    <NavBar />
+    <Composition
+      v-if="composition"
+      :data="composition"
+      :resolveRenderer="resolveRenderer"
+    >
+      <SlotContent name="content" />
+    </Composition>
+  </div>
 </template>

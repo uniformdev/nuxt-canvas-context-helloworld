@@ -8,11 +8,11 @@ https://docs.uniform.app/canvas/tutorials/nuxtjs-tutorial
 Make sure to install the dependencies:
 
 ```bash
+# npm
+npm install --legacy-peer-deps
+
 # yarn
 yarn install
-
-# npm
-npm install
 
 # pnpm
 pnpm install --shamefully-hoist
@@ -32,6 +32,9 @@ Build the application for production:
 
 ```bash
 npm run build
+
+# or generate a static site
+npm run generate
 ```
 
 Locally preview production build:
