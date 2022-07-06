@@ -1,7 +1,13 @@
 # Uniform Nuxt Hello World app
 
-Look at this tutorial to learn more:
+Lean more about this project:
 https://docs.uniform.app/canvas/tutorials/nuxtjs-tutorial
+
+Learn more about Uniform Nuxt module:
+https://www.npmjs.com/package/@uniformdev/uniform-nuxt
+
+For a more complete example:
+https://github.com/uniformdev/uniformconf-nuxt
 
 ## Setup
 
