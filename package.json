@@ -8,14 +8,14 @@
     "context:manifest": "uniform context manifest download --output ./uniform/context-manifest.json"
   },
   "devDependencies": {
-    "@uniformdev/cli": "16.0.1-nuxt.181"
+    "@uniformdev/cli": "16.0.1-nuxt.187"
   },
   "dependencies": {
     "nuxt": "3.0.0-rc.4",
-    "@uniformdev/canvas": "16.0.1-nuxt.181",
-    "@uniformdev/canvas-vue": "16.0.1-nuxt.181",
-    "@uniformdev/context": "16.0.1-nuxt.181",
-    "@uniformdev/context-vue": "16.0.1-nuxt.181",
-    "@uniformdev/uniform-nuxt": "16.0.1-nuxt.181"
+    "@uniformdev/canvas": "16.0.1-nuxt.187",
+    "@uniformdev/canvas-vue": "16.0.1-nuxt.187",
+    "@uniformdev/context": "16.0.1-nuxt.187",
+    "@uniformdev/context-vue": "16.0.1-nuxt.187",
+    "@uniformdev/uniform-nuxt": "16.0.1-nuxt.187"
   }
 }
