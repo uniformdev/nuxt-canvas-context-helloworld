@@ -1,7 +1,9 @@
 # Uniform Nuxt Hello World app
 
-Lean more about this project:
-https://docs.uniform.app/canvas/tutorials/nuxtjs-tutorial
+-----
+### ⚠️ This project is not maintained anymore.
+### Please use our new tutorial: https://docs.uniform.app/tutorials/getting-started
+-----
 
 Learn more about Uniform Nuxt module:
 https://www.npmjs.com/package/@uniformdev/uniform-nuxt
